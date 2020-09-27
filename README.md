@@ -78,6 +78,6 @@ Feito com ❤️ por Gabriel Pereira 👋🏽 [Entre em contato!](https://www.li
 [javascript]: https://www.javascript.com/
 [reactjs]: https://reactjs.org
 [styled-components]:https://styled-components.com/
-[link-jogo]: 
+[link-jogo]: https://nostalgic-beaver-edd2b8.netlify.app/
 [tutorial]: https://www.youtube.com/watch?v=ZGOaCxX8HIU
 
