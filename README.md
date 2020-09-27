@@ -1,6 +1,6 @@
-<h2 align="center">
-   <h1>Tetris Game</h1>
-</h2>
+<h1 align="center">
+   Tetris Game
+</h1>
   
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Gabrielpdev/tetris-game?color=%2304D361">
@@ -61,7 +61,7 @@ yarn start
 ## ⛏️ Tecnologias Utilizadas <a name = "built_using"></a>
 
 As seguintes ferramentas foram usadas na construção do projeto:
--  [JavaScript][javascript]
+- 🔶 [JavaScript][javascript]
 - ⚛️ [React][reactjs]
 - 💅 [Styled-components][styled-components]
 
